@@ -10,6 +10,8 @@ namespace HelloGit_Console
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This is a test\nPanget ka ge");
+            Console.ReadKey();
         }
     }
 }
